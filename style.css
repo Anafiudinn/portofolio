@@ -1,0 +1,35 @@
+
+  
+  /* Jumbotron */
+  .jumbotron {
+    padding-top: 6rem;
+    background-color: #6cc9e8;
+  }
+  
+  /* Project Section */
+ #projects {
+    background-color:#0099ff ;
+ }
+ #contact {
+   background-color: #f3f4f5;
+ }
+ #contact .btn {
+    width: 60px;
+    height: 60px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 24px;
+  }
+  
+  #contact .btn:hover {
+    color: #fff;
+  }
+
+  footer {
+    background-color: #333;
+    text-align: center;
+    color: white;
+
+}
